@@ -1,3 +1,8 @@
+-=(DottoriKun_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # Dottori-Kun for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Based on DottoriLog by Furrtek: https://github.com/furrtek/DottoriLog
